@@ -1,0 +1,54 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Modern Office Space",
+      "segment_name": "Commercial Interior",
+      "description": "Welcome to the epicenter of innovation – the ultimate tech startup hub designed to fuel creativity and collaboration. Nestled in the heart of the thriving tech community, this dynamic workspace offers everything aspiring entrepreneurs need to bring their ideas to life. From cutting-edge amenities to flexible workspaces, it provides the perfect environment for brainstorming, networking, and growth. With state-of-the-art infrastructure and access to mentorship programs, startups can accelerate their development and scale with ease. Whether you're coding the next big app or disrupting an industry, this hub empowers you to turn dreams into reality. Join the revolution and shape the future of technology from this inspiring launchpad.",
+      "price": "$1,200,000",
+      "status": "sale",
+      "area": "5,000 sq ft",
+      "location": "City Center",
+      "image": "https://i.ibb.co/Mh7BSzL/images4.jpg",
+      "facilities": ["Conference rooms", "Breakout areas", "Kitchenette"],
+      "date": "2024-04-16"
+    },
+    {
+      "id": 2,
+      "estate_title": "Chic Retail Boutique",
+      "segment_name": "Commercial Interior",
+      "description": "Indulge in urban charm at this inviting cafe nestled in the heart of downtown. Boasting exposed brick walls, cozy seating, and industrial accents, it exudes a relaxed yet vibrant atmosphere. From morning brews to evening cocktails, the cafe offers a diverse menu of artisanal delights crafted with locally sourced ingredients. Whether you're catching up with friends over brunch or unwinding after a long day, the cafe provides the perfect backdrop for socializing and savoring moments. With its warm hospitality and welcoming ambiance, it's more than just a cafe – it's a community hub where stories are shared and connections are forged. Experience the essence of city living at this beloved urban oasis.",
+      "price": "$800,000",
+      "status": "sale",
+      "area": "2,500 sq ft",
+      "location": "Fashion District",
+      "image": "https://i.ibb.co/LJcytxN/images2.jpg",
+      "facilities": ["Display racks", "Fitting rooms", "Storage area"],
+      "date": "2024-04-16"
+    },
+    {
+      "id": 3,
+      "estate_title": "Tech Startup Hub",
+      "segment_name": "Commercial Interior",
+      "description": "Step into luxury with this chic retail boutique nestled in the bustling fashion district. Designed to captivate shoppers with its elegant ambiance and sophisticated decor, it offers a unique shopping experience for discerning clientele. From curated displays to personalized fitting rooms, every detail exudes style and exclusivity. The boutique boasts spacious interiors, allowing for seamless browsing and leisurely shopping. With its prime location and high foot traffic, it presents a lucrative opportunity for fashion entrepreneurs to showcase their collections and attract a loyal customer base. Elevate your brand and redefine retail excellence in this iconic space.",
+      "price": "$900,000",
+      "status": "sale",
+      "area": "3,500 sq ft",
+      "location": "Tech Hub",
+      "image": "https://i.ibb.co/FHK5DCz/images3.jpg",
+      "facilities": ["Meeting rooms", "Co-working desks", "Coffee bar"],
+      "date": "2024-04-16"
+    },
+    {
+      "id": 4,
+      "estate_title": "Urban Cafe",
+      "segment_name": "Commercial Interior",
+      "description": "Located in the vibrant heart of the city, this modern office space offers a dynamic environment for businesses to thrive. With its contemporary design and open layout, it fosters collaboration and creativity among team members. The space features ample natural lighting, state-of-the-art facilities, and versatile meeting areas, ensuring productivity and efficiency. Whether you're a startup looking to make your mark or an established company seeking a strategic location, this office space provides the ideal setting to elevate your business to new heights. Embrace innovation and success in this inspiring workspace.",
+      "price": "$500,000",
+      "status": "sale",
+      "area": "1,200 sq ft",
+      "location": "Downtown",
+      "image": "https://i.ibb.co/Mh7BSzL/images4.jpg",
+      "facilities": ["Barista counter", "Outdoor seating", "WiFi access"],
+      "date": "2024-04-16"
+    }
+  ]
