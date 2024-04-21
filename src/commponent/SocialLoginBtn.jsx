@@ -6,7 +6,7 @@ const SocialLoginBtn = () => {
     const {googleLogin} = useAuth()
     return (
         <div className="flex justify-center m-3 text-2xl">
-                <button onClick={()=>googleLogin()} className="pr-3"><FaGoogle></FaGoogle></button>
+                <button onClick={googleLogin} className="pr-3"><FaGoogle></FaGoogle></button>
                 <button className="pr-3"><FaFacebook></FaFacebook></button>
                 <button><FaGithub></FaGithub></button>
         </div>

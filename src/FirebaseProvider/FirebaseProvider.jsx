@@ -1,15 +1,16 @@
 import { createUserWithEmailAndPassword, onAuthStateChanged, signInWithEmailAndPassword, signInWithPopup, signOut } from "firebase/auth";
 import { createContext, useEffect, useState } from "react";
 import auth from "../fairbase/fairbase.config";
-import { GoogleAuthProvider } from "firebase/auth/cordova";
+import { GoogleAuthProvider } from "firebase/auth";
 
 
 export const AuthContext = createContext(null)
 
-const googleProvider = new GoogleAuthProvider();
 
 
 const FirebaseProvider = ({children}) => {
+
+    const googleProvider = new GoogleAuthProvider();
 
     const [user,setUser]=useState(null)
     console.log(user)

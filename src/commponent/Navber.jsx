@@ -36,8 +36,10 @@ const Navber = () => {
         <div className="navbar-end">
             <Link to="/login"><button className=" btn font-bold text-2xl mr-5">Login</button></Link>
         </div>
-        </div>
 
+        
+
+        </div>
         </div>
     );
 };
